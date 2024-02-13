@@ -1,15 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test.espresso:espresso-core:3.5.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Ruhul/android_app_practise/app/gradle/wrapper/caches/transforms-3/2ac70d32e80fb67baec50ceae4b6e772/transformed/espresso-core-3.5.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Ruhul/android_app_practise/app/gradle/wrapper/caches/transforms-3/2ac70d32e80fb67baec50ceae4b6e772/transformed/espresso-core-3.5.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Ruhul/android_app_practise/app/gradle/wrapper/caches/transforms-3/2ac70d32e80fb67baec50ceae4b6e772/transformed/espresso-core-3.5.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/gradle/wrapper/caches/transforms-3/3b48da945297ef0a17635200d081a66f/transformed/espresso-core-3.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/gradle/wrapper/caches/transforms-3/3b48da945297ef0a17635200d081a66f/transformed/espresso-core-3.5.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Ruhul/android_app_practise/app/gradle/wrapper/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.5.1/5aa814b4dae9b17188d620668107d85e687388de/espresso-core-3.5.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/wrapper/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.5.1/5aa814b4dae9b17188d620668107d85e687388de/espresso-core-3.5.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Ruhul/android_app_practise/app/gradle/wrapper/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.5.1/50bb4dd95e68eb3fdc986995afab6730be477cdb/espresso-core-3.5.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle/wrapper/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.5.1/50bb4dd95e68eb3fdc986995afab6730be477cdb/espresso-core-3.5.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
